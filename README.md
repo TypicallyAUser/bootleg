@@ -16,7 +16,7 @@ A customizable commandbar created by typicalusername
 
 Kinda a bad thing, but it's something I don't wanna waste my time on.
 
-- Unable to remove scripts via the script manager.
+- Unable to remove scripts via the script manager. Only able to fully reset.
 
 I'll work on that later on. A more improved script manager is gonna be added soon. When I mean soon I mean probably never.
 ## Documentation
@@ -71,7 +71,7 @@ go up
 
 #### why cant i remove scripts
 
-too lazy to add the feature rn
+too lazy to add the feature rn. just reset ur scripts ig idk
 
 #### why does this look like exoliner
 
