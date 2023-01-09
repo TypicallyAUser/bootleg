@@ -5,7 +5,7 @@ writefile("BootlegData.json",game:GetService("HttpService"):JSONEncode({
 end
 if not isfolder("bootleg") then
 	makefolder("bootleg")
-end
+end 
 
 local data = game:GetService("HttpService"):JSONDecode(readfile('BootlegData.json'))
 
