@@ -1,7 +1,7 @@
 
 # bootleg
 
-A customizable commandbar created by typicalusername
+A customizable commandbar created by typicalusername thats based off of an exoliner command bar require.
 
 ## Features
 
